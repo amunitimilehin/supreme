@@ -1,0 +1,46 @@
+ body{
+    background-image:url(  photo-1549122728-f519709caa9c.jpg) ;
+    height: 100%;
+    width: 100%;
+    background-size: auto;
+}
+
+
+
+
+.logid:hover {
+    padding: 5px;
+    background-color: #e5e5e500;
+    border-color: #C3C3C3;
+    color: rgba(0, 255, 234, 0.466);
+    border-radius: 10px;
+}
+
+.ink:hover{
+   color: green;
+   background-color: rgb(49, 42, 42);
+   height: 5px;
+   width: 5px;
+}
+
+.iny:hover{
+    color: green;
+   background-color: rgb(49, 42, 42);
+   height: 5px;
+   width: 5px;
+}
+
+
+.form{
+    
+} 
+
+.other:hover{
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    background-color: blueviolet;
+    
+}
+.other:active{
+    
+}
